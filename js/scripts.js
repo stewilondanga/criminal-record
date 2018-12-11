@@ -8,8 +8,8 @@ var navigate = (function() {
 })();
 
 var name1 = d3.select("#signature #name1");
-/*var name2 = d3.select("#signature #name2");
-var pen = d3.select("#signature #pen");
+var name2 = d3.select("#signature #name2");
+/*var pen = d3.select("#signature #pen");
 
 initPath(name1); //set the stroke properties
 initPath(name2);
