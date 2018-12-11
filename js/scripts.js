@@ -19,10 +19,10 @@ $("#finger").addClass("plant");
 $("#fingerprint").addClass("show");
 
 setTimeout(showAutograph, 3000);
-/*setTimeout(function(){
-    pen.style("visibility", "hidden");
-  }, 7000);
-
+setTimeout(function() {
+  pen.style("visibility", "hidden");
+}, 7000);
+/*
 function showAutograph(){
   illustratePath(name1, 2000,0);
   illustratePen(name1, 2000, 0);
