@@ -153,19 +153,21 @@ div.polaroid {
   }
 }
 
-/*@keyframes show{
-  74%{
-    opacity:0;
+@keyframes show {
+  74% {
+    opacity: 0;
   }
-  75%{
-    opacity:1;
+
+  75% {
+    opacity: 1;
   }
-  100%{
-    opacity:1;
+
+  100% {
+    opacity: 1;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
