@@ -15,8 +15,8 @@ initPath(name1); //set the stroke properties
 initPath(name2);
 
 //Thumb print runs for 3s using CSS animation
-/*$("#finger").addClass("plant");
-$("#fingerprint").addClass("show");
+$("#finger").addClass("plant");
+/*$("#fingerprint").addClass("show");
 
 setTimeout(showAutograph, 3000);
 setTimeout(function(){
