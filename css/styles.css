@@ -1,5 +1,11 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans);
 @import url(//fonts.googleapis.com/css?family=Special+Elite);
+
+body {
+  font-family: "Open Sans", Verdana;
+  background-image: url(http://i.stack.imgur.com/kb0Zm.jpg);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -24,10 +30,6 @@
 }
 
 
-body{
-  font-family: "Open Sans", Verdana;
-  background-image: url(http://i.stack.imgur.com/kb0Zm.jpg);
-}
 
 .typewriter{
   font-family: 'Special Elite', Verdana;
