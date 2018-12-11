@@ -38,16 +38,16 @@ function initPath(path) {
     .attr("stroke-dashoffset", lineLen);
 }
 
-/*
+
 //illustrate the stroke of the path from zero to end
-function illustratePath(path, duration, delay){
-    path.transition()
-      .duration(duration)
-      .delay(delay)
-      .attr("stroke-dashoffset", 0);
+function illustratePath(path, duration, delay) {
+  path.transition()
+    .duration(duration)
+    .delay(delay)
+    .attr("stroke-dashoffset", 0);
 }
 
-
+/*
 //illustrate the stroke of the path from zero to end
 function illustratePen(pathToFollow, duration, delay) {
   pen.style("opacity", 1);
