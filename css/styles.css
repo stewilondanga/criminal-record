@@ -88,16 +88,16 @@ div.polaroid {
   text-align: center;
 }
 
-/*
-#finger{
-  position:absolute;
-  width:500px;
-  height:300px;
+#finger {
+  position: absolute;
+  width: 500px;
+  height: 300px;
   top: 280px;
-  left:-300px;
+  left: -300px;
   transform: rotate(-30deg);
 }
 
+/*
 #signature{
   width:200px;
   fill:none;
