@@ -22,15 +22,15 @@ setTimeout(showAutograph, 3000);
 setTimeout(function() {
   pen.style("visibility", "hidden");
 }, 7000);
-/*
-function showAutograph(){
-  illustratePath(name1, 2000,0);
+
+function showAutograph() {
+  illustratePath(name1, 2000, 0);
   illustratePen(name1, 2000, 0);
 
   illustratePath(name2, 2000, 2000);
   illustratePen(name2, 2000, 2000);
 }
-
+/*
 //make it one big long stroke dash
 function initPath(path){
   var lineLen = path.node().getTotalLength();
