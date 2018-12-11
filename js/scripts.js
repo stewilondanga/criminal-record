@@ -1,12 +1,12 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
-
+/*
 var name1 = d3.select("#signature #name1");
 var name2 = d3.select("#signature #name2");
 var pen = d3.select("#signature #pen");
