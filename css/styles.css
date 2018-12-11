@@ -97,14 +97,14 @@ div.polaroid {
   transform: rotate(-30deg);
 }
 
-/*
-#signature{
-  width:200px;
-  fill:none;
+#signature {
+  width: 200px;
+  fill: none;
   stroke: black;
-  stroke-width:4px;
+  stroke-width: 4px;
 }
 
+/*
 #fingerprint{
   position:absolute;
   top:300px;
