@@ -117,14 +117,13 @@ div.polaroid {
   animation-fill-mode: forwards;
 }
 
-/*
-#pen{
-  stroke-width:5;
-  fill:black;
-  opacity:0;
+#pen {
+  stroke-width: 5;
+  fill: black;
+  opacity: 0;
 }
 
-.name{
+/*.name{
   stroke-width:5;
 }
 
