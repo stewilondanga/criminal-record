@@ -42,11 +42,11 @@ h1 {
   grid-column: 2 / span 2;
 }
 
-/*#signature-item{
-  grid-column:2 /span 2;
+#signature-item {
+  grid-column: 2 /span 2;
 }
 
-div.polaroid {
+/*div.polaroid {
   grid-column: 1;
   grid-row-start: 1;
   grid-row-end: 3;
