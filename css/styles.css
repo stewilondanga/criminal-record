@@ -127,14 +127,14 @@ div.polaroid {
   stroke-width: 5;
 }
 
-/*.plant{
+.plant {
   animation: plant;
   animation-duration: 3s;
   animation-iteration-count: 1;
   animation-timing-function: linear;
 }
 
-@keyframes plant{
+/*@keyframes plant{
   50%{
     left:-140px;
     transform: skewX(20deg);
