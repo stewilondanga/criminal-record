@@ -47,7 +47,6 @@ function illustratePath(path, duration, delay) {
     .attr("stroke-dashoffset", 0);
 }
 
-/*
 //illustrate the stroke of the path from zero to end
 function illustratePen(pathToFollow, duration, delay) {
   pen.style("opacity", 1);
@@ -58,7 +57,7 @@ function illustratePen(pathToFollow, duration, delay) {
     .delay(delay)
     .attrTween("transform", translateAlong(pathToFollow.node()));
 }
-
+/*
 // Returns an attrTween for translating along the specified path element.
 function translateAlong(path) {
   var l = path.getTotalLength();
