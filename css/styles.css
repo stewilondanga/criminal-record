@@ -134,23 +134,26 @@ div.polaroid {
   animation-timing-function: linear;
 }
 
-/*@keyframes plant{
-  50%{
-    left:-140px;
+@keyframes plant {
+  50% {
+    left: -140px;
     transform: skewX(20deg);
   }
-  74%{
-    left:-140px;
+
+  74% {
+    left: -140px;
   }
-  75%{
-    left:-200px;
+
+  75% {
+    left: -200px;
   }
-  100%{
-    left:-300px;
+
+  100% {
+    left: -300px;
   }
 }
 
-@keyframes show{
+/*@keyframes show{
   74%{
     opacity:0;
   }
