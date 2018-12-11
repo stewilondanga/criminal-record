@@ -57,7 +57,7 @@ function illustratePen(pathToFollow, duration, delay) {
     .delay(delay)
     .attrTween("transform", translateAlong(pathToFollow.node()));
 }
-/*
+
 // Returns an attrTween for translating along the specified path element.
 function translateAlong(path) {
   var l = path.getTotalLength();
