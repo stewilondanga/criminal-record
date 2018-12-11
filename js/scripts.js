@@ -30,15 +30,15 @@ function showAutograph() {
   illustratePath(name2, 2000, 2000);
   illustratePen(name2, 2000, 2000);
 }
-/*
+
 //make it one big long stroke dash
-function initPath(path){
+function initPath(path) {
   var lineLen = path.node().getTotalLength();
-  path.attr("stroke-dasharray", lineLen + ", "+ lineLen)
-      .attr("stroke-dashoffset", lineLen) ;
+  path.attr("stroke-dasharray", lineLen + ", " + lineLen)
+    .attr("stroke-dashoffset", lineLen);
 }
 
-
+/*
 //illustrate the stroke of the path from zero to end
 function illustratePath(path, duration, delay){
     path.transition()
