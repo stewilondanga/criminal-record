@@ -18,8 +18,8 @@ initPath(name2);
 $("#finger").addClass("plant");
 $("#fingerprint").addClass("show");
 
-/*setTimeout(showAutograph, 3000);
-setTimeout(function(){
+setTimeout(showAutograph, 3000);
+/*setTimeout(function(){
     pen.style("visibility", "hidden");
   }, 7000);
 
