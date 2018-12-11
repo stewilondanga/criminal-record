@@ -38,11 +38,11 @@ body {
   grid-template-rows: 100px 100px 200px;
 }
 
-/*h1{
+h1 {
   grid-column: 2 / span 2;
 }
 
-#signature-item{
+/*#signature-item{
   grid-column:2 /span 2;
 }
 
