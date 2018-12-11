@@ -26,11 +26,11 @@ body {
   font-size: 18px;
 }
 
-/*img {
-  width:200px;
+.form img {
+  width: 200px;
 }
 
-#form{
+/*#form{
   display: grid;
   grid-gap: 0.5em;
   padding: 0.5em;
